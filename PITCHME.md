@@ -23,5 +23,8 @@ Programming is how humans talk to machines!
 
 There are a huge number of programming languages.
 
-We choosed to introduce Python because it is clear and have a readable
+We choosed to introduce Python because it has a clear and readable
 syntax.
+
+
+Python is versatile. It is used as cripting language in SPSS, ARCgis, Blender ...
