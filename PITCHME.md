@@ -21,4 +21,7 @@ Programming is how humans talk to machines!
 
 ---
 
-There are a huge number of programming languages. One of the simplest 
+There are a huge number of programming languages.
+
+We choosed to introduce Python because it is clear and have a readable
+syntax.
