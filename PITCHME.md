@@ -1,6 +1,22 @@
-# Hello world
+# Very short introduction to programming
 
-## title
+---
 
-### subtitle
+# What is programming 
 
+
+## "Coding is what makes it possible for us to create computer software, apps and websites. Your browser, your OS, the apps on your phone, Facebook, and this website – they’re all made with code." 
+from CodeConquest web site
+
+---
+
+## Programming let us to implement algorithms in order to solve problems.
+
+---
+
+## Programming is how humans talk to machines!
+
+
+---
+
+There are a huge number of programming languages. One of the simplest 
